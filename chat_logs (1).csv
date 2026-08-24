@@ -1,0 +1,16 @@
+timestamp,contact,direction,message
+2026-05-01 08:00:00,Mom,Received,Good morning beta
+2026-05-01 08:01:20,Mom,Sent,Good morning
+2026-05-01 09:20:00,Rahul,Received,Coming to class?
+2026-05-01 09:21:00,Rahul,Sent,Yes on my way
+2026-05-01 15:20:00,Project Team,Received,Client meeting at 5 PM
+2026-05-01 15:21:00,Project Team,Sent,I will join
+2026-05-01 22:45:00,Unknown_1,Received,Need update tonight
+2026-05-01 22:46:00,Unknown_1,Sent,Call me now
+2026-05-01 23:00:00,Unknown_1,Received,Urgent matter
+2026-05-02 23:05:00,Unknown_2,Received,Meet at usual place
+2026-05-02 23:06:00,Unknown_2,Sent,Okay
+2026-05-03 23:25:00,Unknown_3,Received,Keep it confidential
+2026-05-03 23:26:00,Unknown_3,Sent,Understood
+2026-05-04 11:00:00,College Friend,Received,Assignment done?
+2026-05-04 11:01:00,College Friend,Sent,Almost finished
